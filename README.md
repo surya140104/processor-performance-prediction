@@ -48,8 +48,9 @@ Each model is trained on a **custom dataset** generated using **Sentaurus TCAD**
 
 * Python 3.x
 * scikit-learn
-* TensorFlow / PyTorch (depending on CNN/SNN implementation)
+* TensorFlow / PyTorch,Norse library (specially for SNN implementation)
 * NumPy, Matplotlib, Pandas
+
 
 ## 📄 Paper
 
